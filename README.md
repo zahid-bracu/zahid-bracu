@@ -1,4 +1,4 @@
-### Hello there, This is [Md. Zahidur Rahman][website]
+### Hello there, This is Md. Zahidur Rahman
 
 ### Welcome to my GitHub's World.
 
