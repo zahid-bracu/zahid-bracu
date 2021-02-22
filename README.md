@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.ibb.co/029rsTn/arabic-calligraphy.jpg"   style="width:300px" />
-</div>  
+
   
 
 ### <div align="center">I'm Zahid (জাহিদ). I am from Bangladesh (বাংলাদেশ). I love to work in JavaScript, Python & Java.</div>  
