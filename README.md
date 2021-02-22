@@ -1,13 +1,13 @@
 ### Hi there 👋
 Over the last five years, I've been engaged with web development focusing on intuitive UI and better UX. Experienced with building a pack of web templates, web apps, plugins, frameworks, and tools, I never stopped learning new things. Considering the other traits, I'm a team player, dedicated, fast learner, highly tech-enthusiast, and a genuine bug fixer. My start-up-friendly career is my biggest asset to trade with the excellence of the institutions where I’d like to work. 
 - 🔭 I’m currently working as a full-stack software engineer.
-- 💬 Ask me [here](https://github.com/humayunkabir/ama) if you have any query.
-- 👯 I’m looking to collaborate on [volunteer-platform](https://github.com/humayunkabir/volunteer-platform).
-- 🤔 I’m looking for help with [volunteer-platform](https://github.com/humayunkabir/volunteer-platform) and [volunteer-platform-api](https://github.com/humayunkabir/volunteer-platform-api).
-- 📫 How to reach me: humayunkabir.cep@gmail.com
+- 💬 Ask me [here](https://github.com/zahid-bracu/ama) if you have any query.
+- 👯 I’m looking to collaborate on [volunteer-platform](https://github.com/zahid-bracu/volunteer-platform).
+- 🤔 I’m looking for help with [volunteer-platform](https://github.com/zahid-bracu/volunteer-platform) and [volunteer-platform-api](https://github.com/zahid-bracu/volunteer-platform-api).
+- 📫 How to reach me: zahid-bracu.cep@gmail.com
 - ⚡ Fun fact: Love to help people.
 <!--
-**humayunkabir/humayunkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zahid-bracu/zahid-bracu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -83,51 +83,51 @@ Here are some ideas to get you started:
 <br/>
 
 ## Connect with me  
-<a href="https://github.com/humayunkabir" target="_blank">
+<a href="https://github.com/zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/story/humayunkabir" target="_blank">
+<a href="https://stackoverflow.com/story/zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/humayunkabir007" target="_blank">
+<a href="https://linkedin.com/in/zahid-bracu007" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@_humayunkabir" target="_blank">
+<a href="https://medium.com/@_zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/humayunkabir" target="_blank">
+<a href="https://dev.to/zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/humayunkabir" target="_blank">
+<a href="https://codepen.com/zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@_humayunkabir" target="_blank">
+<a href="https://twitter.com/@_zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/humayunkabir" target="_blank">
+<a href="https://dribbble.com/zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/humayunkabir.sust" target="_blank">
+<a href="https://www.facebook.com/zahid-bracu.sust" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_humayunkabir" target="_blank">
+<a href="https://instagram.com/_zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/channel/UC5qWEye2Rbt0xKauDNq8d-Q" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/_humayunkabir" target="_blank">
+<a href="https://www.behance.net/_zahid-bracu" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>   
 
 <br/>
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=humayunkabir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zahid-bracu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=humayunkabir&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=zahid-bracu&&style=flat-square" align="center" />
 </div>  
  
