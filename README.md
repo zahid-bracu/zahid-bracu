@@ -1,10 +1,7 @@
 ### Hi there 👋
-Over the last five years, I've been engaged with web development focusing on intuitive UI and better UX. Experienced with building a pack of web templates, web apps, plugins, frameworks, and tools, I never stopped learning new things. Considering the other traits, I'm a team player, dedicated, fast learner, highly tech-enthusiast, and a genuine bug fixer. My start-up-friendly career is my biggest asset to trade with the excellence of the institutions where I’d like to work. 
-- 🔭 I’m currently working as a full-stack software engineer.
-- 💬 Ask me [here](https://github.com/zahid-bracu/ama) if you have any query.
-- 👯 I’m looking to collaborate on [volunteer-platform](https://github.com/zahid-bracu/volunteer-platform).
-- 🤔 I’m looking for help with [volunteer-platform](https://github.com/zahid-bracu/volunteer-platform) and [volunteer-platform-api](https://github.com/zahid-bracu/volunteer-platform-api).
-- 📫 How to reach me: zahid-bracu.cep@gmail.com
+
+
+- 📫 How to reach me: zahid.mym@gmail.com
 - ⚡ Fun fact: Love to help people.
 <!--
 **zahid-bracu/zahid-bracu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,12 +30,8 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
@@ -60,8 +53,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+
 </div>
 
 </td><td valign="top" width="33%">
