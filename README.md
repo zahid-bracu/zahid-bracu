@@ -2,13 +2,6 @@
   
 
 ### <div align="center">I'm Zahid (জাহিদ). I am from Bangladesh (বাংলাদেশ). I love to work in JavaScript, Python & Java.</div>  
-  
-
-- ask me anything : zahid.mym@gmail.com  
-  
-
-- Fun fact: I love to help people  
-  
 
 <br/>  
 
