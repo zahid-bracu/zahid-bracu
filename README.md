@@ -1,5 +1,6 @@
 
-  
+<img src="https://github.com/favicon.ico" width="48">  
+
 
 ### <div align="center">I'm Zahid (জাহিদ). I am from Bangladesh (বাংলাদেশ). I love to work in JavaScript, Python & Java.</div>  
 
