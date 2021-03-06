@@ -1,7 +1,7 @@
 
  
 
-<h4 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h4>
+<h2 align="center">ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ</h2>
 <h5 align="center">আসসালামু আলাইকুম</h5>
 <div align="center">I'm Muhammad Zahidur Rahman. I am from Bangladesh (বাংলাদেশ). I love to work in JavaScript, Python & Java.</div>  
 
