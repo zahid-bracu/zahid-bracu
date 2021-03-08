@@ -5,9 +5,9 @@
 <h3 align="center">আসসালামু আলাইকুম</h3>
 <div align="center">I'm Muhammad Zahidur Rahman. I am from Bangladesh (বাংলাদেশ). I love to work in JavaScript, Python & Java.</div>  
 
-<h3 align="center">
- <a hred="https://portfolio-zahid-bracu.netlify.app/">My Portfolio https://portfolio-zahid-bracu.netlify.app/ </a>
-</h4>
+<h3>
+ <a hred="https://portfolio-zahid-bracu.netlify.app/">My Portfolio : https://portfolio-zahid-bracu.netlify.app/ </a>
+</h3>
 
 <br/>  
 
