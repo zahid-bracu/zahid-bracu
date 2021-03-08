@@ -9,22 +9,15 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+ 
 
-
-
-### Tools & Techonology   
  ![alt text](https://i.ibb.co/8cbNKdH/Skills.png)
 
-</td><td valign="top" width="33%">
+ 
 
 
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
