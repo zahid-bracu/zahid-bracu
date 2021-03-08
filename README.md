@@ -14,9 +14,7 @@
 
 
 ### Tools & Techonology   
-<div align="center">  
-![alt text](https://i.ibb.co/8cbNKdH/Skills.png)
-</div>
+ ![alt text](https://i.ibb.co/8cbNKdH/Skills.png)
 
 </td><td valign="top" width="33%">
 
