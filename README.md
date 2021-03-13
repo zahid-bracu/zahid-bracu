@@ -17,7 +17,7 @@
 
  
  
- <img src="https://i.ibb.co/8cbNKdH/Skills.png" style="margin:auto" />
+ <img src="https://i.ibb.co/8cbNKdH/Skills.png" style="margin:auto;display:block" />
 
  
 
