@@ -15,7 +15,9 @@
 ## My Skill Set  
  
 
- ![alt text](https://i.ibb.co/8cbNKdH/Skills.png)
+ 
+ 
+ <img src="https://i.ibb.co/8cbNKdH/Skills.png" style="margin:auto;display:block" />
 
  
 
