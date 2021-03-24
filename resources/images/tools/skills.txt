@@ -1,0 +1,30 @@
+HTML - OK
+CSS - OK
+JS - OK
+BootStrap - OK
+JQuery 
+React - OK
+ReactStrap -OK
+MU - OK
+React-Router - OK
+Firebase - OK
+
+Node - OK
+Express - OK
+MongoDB - OK
+Mongoose - OK
+VSCode - ok
+Npm - ok
+Java - OK
+Github - OK
+Sass - 
+
+GraphQL -OK
+Redux -OK
+MySQL -OK
+Oracle -OK
+Python -OK
+Django -OK
+React-Native -OK
+Vue -OK
+PostgreSQL
