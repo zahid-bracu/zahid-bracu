@@ -37,17 +37,8 @@
 <br/>  
 
 
-<h3 align='center'> Github Stats  </h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zahid-bracu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-  
-
-<br/>  
+ 
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zahid-bracu&&style=flat-square" align="center" />
