@@ -6,7 +6,7 @@
 <div align="center">I'm Muhammad Zahidur Rahman. I am from Bangladesh (বাংলাদেশ)</div>  
 
 <h3 align='center'>
- My Portfolio : <a href="https://portfolio-zahid-bracu.netlify.app/">click here </a>
+ My Portfolio : <a href="https://zahidur.netlify.app/">click here </a>
 </h3>
 
 <br/>  
