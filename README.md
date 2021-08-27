@@ -5,9 +5,9 @@
 <h3 align="center">আসসালামু আলাইকুম</h3>
 <div align="center">I'm Muhammad Zahidur Rahman. I am from Bangladesh (বাংলাদেশ)</div>  
 
-<h3 align='center'>
+<!-- <h3 align='center'>
  My Portfolio : <a href="https://zahidur.netlify.app/">click here </a>
-</h3>
+</h3> -->
 
 <br/>  
 
